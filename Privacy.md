@@ -1,0 +1,31 @@
+# Privacy Policy
+
+Framehaven respects your privacy.
+
+## Data Collection
+
+Framehaven does not collect, transmit, or share personal data with the developer. No analytics, tracking, or advertising services are used.
+
+## Data Usage
+
+Framehaven stores your slideshow settings locally on your Mac. These settings can include slideshow names, playback preferences, references to selected folders and audio files, and the name and identifier of a selected Music playlist.
+
+When you add picture folders or audio files from Finder, Framehaven stores a local reference to those items so it can access them again. The original files remain in their existing locations.
+
+When you add pictures from Photos, Framehaven imports local copies into its application support folder so they can be used in the slideshow.
+
+If you choose a playlist from Music, Framehaven requests access to your Music library only to show your playlists and play the one you select. Apple Music or cloud-hosted media may be processed by Apple according to Apple's own terms and privacy policy.
+
+## Data Sharing
+
+Framehaven does not share your slideshow data with the developer or other third parties. The app does not operate a developer-controlled server.
+
+## Data Storage
+
+Framehaven's settings, stored file references, and imported photo copies remain locally on your Mac. Content already stored in Photos, iCloud, Apple Music, or another external service remains subject to that service's storage and privacy practices.
+
+## Contact
+
+If you have questions or concerns about this privacy policy, you can contact:
+
+skypowered@daschu.de
