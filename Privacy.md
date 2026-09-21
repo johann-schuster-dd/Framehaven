@@ -12,7 +12,7 @@ Framehaven stores your slideshow settings locally on your Mac. These settings ca
 
 When you add picture folders or audio files from Finder, Framehaven stores a local reference to those items so it can access them again. The original files remain in their existing locations.
 
-When you add pictures from Photos, Framehaven imports local copies into its application support folder so they can be used in the slideshow.
+When you add individual pictures from Photos, Framehaven imports local copies into its application support folder so they can be used in the slideshow. If you choose to add an entire album, Framehaven requests Photos library access to list your albums and copy the pictures from the album you select. Videos are ignored. Photos access is used only for the import you initiate, and the imported copies remain on your Mac.
 
 If you choose a playlist from Music, Framehaven requests access to your Music library only to show your playlists and play the one you select. Apple Music or cloud-hosted media may be processed by Apple according to Apple's own terms and privacy policy.
 
