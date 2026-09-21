@@ -22,7 +22,7 @@ Deleting a slideshow cannot be undone.
 
 ## Pictures
 
-Framehaven offers two ways to add pictures.
+Framehaven offers three ways to add pictures.
 
 ### Add Picture Folders
 
@@ -34,11 +34,19 @@ Framehaven keeps a reference to each selected folder. Your original pictures sta
 
 ### Add from Photos
 
-1. In the "Picture Folders" card, click "Add from Photos…".
+1. In the "Picture Folders" card, click "Choose Pictures from Photos…".
 2. Select one or more pictures.
 3. Confirm the selection.
 
 Framehaven imports copies of the selected pictures into its application support folder. If an item is available only in iCloud and cannot be imported, download it in Photos and try again.
+
+### Add an Entire Photos Album
+
+1. In the "Picture Folders" card, click "Add an Entire Album…".
+2. Allow Photos access if macOS asks.
+3. Search for and select an album.
+
+Framehaven imports every picture in the album and shows progress while local or iCloud items are prepared. Videos in the album are ignored.
 
 ## Playback
 
@@ -51,6 +59,8 @@ Use the "Playback" card to configure the slideshow:
 - "Endless Loop" starts again after the last picture instead of closing the slideshow.
 
 Click "Play Slideshow" or the Play button in the toolbar to begin.
+
+The estimated cycle duration appears directly beside the Play button and updates when the picture count or time per picture changes.
 
 During playback, use the on-screen controls or the left and right arrow keys to move between pictures. You can pause or resume the slideshow and press Escape to close it. Moving the pointer or clicking the slideshow reveals the controls again.
 
@@ -76,6 +86,8 @@ The songs play in order and repeat for the duration of the slideshow.
 Choosing Finder audio replaces the selected Music playlist, and choosing a Music playlist replaces the Finder audio selection.
 
 If a playlist is unavailable, make sure Music access is allowed in System Settings and that cloud-hosted songs are available for playback.
+
+Framehaven displays a loading indicator while it prepares a Music playlist for playback.
 
 ## AirPlay and External Displays
 
