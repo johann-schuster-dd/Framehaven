@@ -74,7 +74,7 @@ Pictures are displayed without cropping, so the entire image remains visible.
 2. Choose "From Finder…".
 3. Select one or more audio files.
 
-The songs play in order and repeat for the duration of the slideshow.
+The songs play in order and repeat for the duration of the slideshow. Turn on "Shuffle Songs" to randomize their order; each repeat gets a new order.
 
 ### Choose a Playlist from Music
 
@@ -87,11 +87,17 @@ Choosing Finder audio replaces the selected Music playlist, and choosing a Music
 
 If a playlist is unavailable, make sure Music access is allowed in System Settings and that cloud-hosted songs are available for playback.
 
-Framehaven displays a loading indicator while it prepares a Music playlist for playback.
+"Shuffle Songs" also works with a playlist from Music.
 
-## AirPlay and External Displays
+## Apple TV and External Displays
 
-The playback controls include an AirPlay button for compatible audio devices. To show the complete slideshow on another display or Apple TV, open Control Center and use Screen Mirroring.
+To show the complete slideshow on Apple TV, open Screen Mirroring in the macOS menu bar and select your TV. Choose mirroring to show the slideshow on both screens. If you extend your desktop, Framehaven moves the slideshow to the newly connected display automatically. Use the display button in the playback controls to move it between connected displays. The same menu can open Displays settings.
+
+Choose your preferred audio output in the macOS menu bar. The playback controls do not include an audio output picker.
+
+## Settings and Privacy
+
+Open Framehaven Settings from the app menu or the gear button in the main window. Settings links to the privacy policy and repository on GitHub and provides the contact email address.
 
 ## Troubleshooting
 
