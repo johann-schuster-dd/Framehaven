@@ -42,9 +42,10 @@ Framehaven imports copies of the selected pictures into its application support 
 
 ### Add an Entire Photos Album
 
-1. In the "Picture Folders" card, click "Add an Entire Album…".
+1. In the "Picture Folders" card, click "Choose Album from Photos…".
 2. Allow Photos access if macOS asks.
-3. Search for and select an album.
+3. Wait for the album count to finish. The picker shows how many albums it has checked.
+4. Open the folders as arranged in Photos, or search by folder or album name, then select an album. Smart albums appear in their own section.
 
 Framehaven imports every picture in the album and shows progress while local or iCloud items are prepared. Videos in the album are ignored.
 
@@ -74,7 +75,7 @@ Pictures are displayed without cropping, so the entire image remains visible.
 2. Choose "From Finder…".
 3. Select one or more audio files.
 
-The songs play in order and repeat for the duration of the slideshow. Turn on "Shuffle Songs" to randomize their order; each repeat gets a new order.
+The songs play in order and repeat for the duration of the slideshow. Turn on "Random order" to shuffle them; each repeat gets a new order.
 
 ### Choose a Playlist from Music
 
@@ -83,11 +84,18 @@ The songs play in order and repeat for the duration of the slideshow. Turn on "S
 3. Allow Music access if macOS asks.
 4. Select a playlist.
 
-Choosing Finder audio replaces the selected Music playlist, and choosing a Music playlist replaces the Finder audio selection.
+### Choose an Album from Music
 
-If a playlist is unavailable, make sure Music access is allowed in System Settings and that cloud-hosted songs are available for playback.
+1. In the "Soundtrack" card, click "Choose Music…".
+2. Choose "Album from Music…".
+3. Allow Music access if macOS asks.
+4. Select an album from your Music library. The picker can also switch between Albums and Playlists.
 
-"Shuffle Songs" also works with a playlist from Music.
+Choosing Finder audio, a Music playlist, or a Music album replaces the previous soundtrack selection.
+
+If a playlist or album is unavailable, make sure Music access is allowed in System Settings and that cloud-hosted songs are available for playback.
+
+"Random order" also works with a playlist or album from Music.
 
 ## Apple TV and External Displays
 
